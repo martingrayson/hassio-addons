@@ -1,6 +1,6 @@
 {
   "name": "Risco HASS Bridge",
-  "version": "aea980c",
+  "version": "594938e",
   "slug": "risco_hass_bridge",
   "description": "Sync Risco Alarm System to HASS",
   "url": "https://github.com/martingrayson/risco-hass-bridge",
